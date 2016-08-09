@@ -1,3 +1,3 @@
 # Hello-World
 Just another Repository
-Hi this is for demi purpose
+Hi this is for demo purpose
